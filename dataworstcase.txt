@@ -1,0 +1,2605 @@
+Beast Druid
+Versus:	Holy Paladin
+Winrate:	35.00%
+Games:	200
+Twitch VODs available!
+35.00%
+Beast Druid
+Versus:	Face Hunter
+Winrate:	55.49%
+Games:	173
+55.49%
+Beast Druid
+Versus:	Pirate Rogue
+Winrate:	55.29%
+Games:	302
+Twitch VODs available!
+55.29%
+Beast Druid
+Versus:	Quest Priest
+Winrate:	42.65%
+Games:	429
+Twitch VODs available!
+42.65%
+Beast Druid
+Versus:	Mech Mage
+Winrate:	46.19%
+Games:	368
+Twitch VODs available!
+46.19%
+Beast Druid
+Versus:	Boar Priest
+Winrate:	42.15%
+Games:	306
+Twitch VODs available!
+42.15%
+Beast Druid
+Versus:	Burn Shaman
+Winrate:	31.15%
+Games:	398
+Twitch VODs available!
+31.15%
+Beast Druid
+Versus:	Celestial Druid
+Winrate:	74.78%
+Games:	353
+Twitch VODs available!
+74.78%
+Beast Druid
+Versus:	Ramp Druid
+Winrate:	70.01%
+Games:	507
+Twitch VODs available!
+70.01%
+Beast Druid
+Versus:	Charge Warrior
+Winrate:	52.30%
+Games:	413
+Twitch VODs available!
+52.30%
+Beast Druid
+Versus:	Quest Warrior
+Winrate:	54.93%
+Games:	699
+Twitch VODs available!
+54.93%
+Beast Druid
+Versus:	Naga Mage
+Winrate:	42.31%
+Games:	657
+Twitch VODs available!
+42.31%
+Beast Druid
+Versus:	Handbuff Paladin
+Winrate:	53.74%
+Games:	761
+Twitch VODs available!
+53.74%
+Beast Druid
+Versus:	Bless Priest
+Winrate:	43.88%
+Games:	711
+Twitch VODs available!
+43.88%
+Beast Druid
+Versus:	Murloc Warlock
+Winrate:	47.05%
+Games:	731
+Twitch VODs available!
+47.05%
+Beast Druid
+Versus:	Control Warrior
+Winrate:	44.21%
+Games:	812
+Twitch VODs available!
+44.21%
+Beast Druid
+Versus:	Mech Paladin
+Winrate:	55.00%
+Games:	1,378
+Twitch VODs available!
+55.00%
+Beast Druid
+Versus:	Curse Warlock
+Winrate:	35.00%
+Games:	1,737
+Twitch VODs available!
+35.00%
+Beast Druid
+Versus:	Beast Hunter
+Winrate:	47.37%
+Games:	1,693
+Twitch VODs available!
+47.37%
+Beast Druid
+Versus:	Thief Rogue
+Winrate:	46.73%
+Games:	2,375
+Twitch VODs available!
+46.73%
+Not enough games
+
+?
+Not enough games
+
+?
+Fel Demon Hunter
+Versus:	Beast Druid
+Winrate:	41.12%
+Games:	107
+41.12%
+Fel Demon Hunter
+Mirror matchup
+Fel Demon Hunter
+Versus:	Holy Paladin
+Winrate:	35.90%
+Games:	376
+35.90%
+Fel Demon Hunter
+Versus:	Face Hunter
+Winrate:	47.76%
+Games:	335
+Twitch VODs available!
+47.76%
+Fel Demon Hunter
+Versus:	Pirate Rogue
+Winrate:	59.10%
+Games:	445
+Twitch VODs available!
+59.10%
+Fel Demon Hunter
+Versus:	Quest Priest
+Winrate:	60.00%
+Games:	640
+Twitch VODs available!
+60.00%
+Fel Demon Hunter
+Versus:	Mech Mage
+Winrate:	43.03%
+Games:	560
+Twitch VODs available!
+43.03%
+Fel Demon Hunter
+Versus:	Boar Priest
+Winrate:	61.50%
+Games:	626
+Twitch VODs available!
+61.50%
+Fel Demon Hunter
+Versus:	Burn Shaman
+Winrate:	46.60%
+Games:	706
+Twitch VODs available!
+46.60%
+Fel Demon Hunter
+Versus:	Celestial Druid
+Winrate:	45.40%
+Games:	740
+Twitch VODs available!
+45.40%
+Fel Demon Hunter
+Versus:	Ramp Druid
+Winrate:	44.53%
+Games:	860
+Twitch VODs available!
+44.53%
+Fel Demon Hunter
+Versus:	Charge Warrior
+Winrate:	45.75%
+Games:	719
+Twitch VODs available!
+45.75%
+Fel Demon Hunter
+Versus:	Quest Warrior
+Winrate:	47.81%
+Games:	916
+Twitch VODs available!
+47.81%
+Fel Demon Hunter
+Versus:	Naga Mage
+Winrate:	48.36%
+Games:	1,220
+Twitch VODs available!
+48.36%
+Fel Demon Hunter
+Versus:	Handbuff Paladin
+Winrate:	30.87%
+Games:	1,182
+Twitch VODs available!
+30.87%
+Fel Demon Hunter
+Versus:	Bless Priest
+Winrate:	47.90%
+Games:	1,098
+Twitch VODs available!
+47.90%
+Fel Demon Hunter
+Versus:	Murloc Warlock
+Winrate:	55.61%
+Games:	1,176
+Twitch VODs available!
+55.61%
+Fel Demon Hunter
+Versus:	Control Warrior
+Winrate:	41.07%
+Games:	1,456
+Twitch VODs available!
+41.07%
+Fel Demon Hunter
+Versus:	Mech Paladin
+Winrate:	36.25%
+Games:	2,066
+Twitch VODs available!
+36.25%
+Fel Demon Hunter
+Versus:	Curse Warlock
+Winrate:	60.17%
+Games:	2,780
+Twitch VODs available!
+60.17%
+Fel Demon Hunter
+Versus:	Beast Hunter
+Winrate:	31.13%
+Games:	2,772
+Twitch VODs available!
+31.13%
+Fel Demon Hunter
+Versus:	Thief Rogue
+Winrate:	44.09%
+Games:	4,141
+Twitch VODs available!
+44.09%
+Not enough games
+
+?
+Not enough games
+
+?
+Holy Paladin
+Versus:	Beast Druid
+Winrate:	65.00%
+Games:	200
+Twitch VODs available!
+65.00%
+Holy Paladin
+Versus:	Fel Demon Hunter
+Winrate:	64.09%
+Games:	376
+Twitch VODs available!
+64.09%
+Holy Paladin
+Mirror matchup
+TwitchTwitch VODs available!
+Holy Paladin
+Versus:	Face Hunter
+Winrate:	66.36%
+Games:	874
+Twitch VODs available!
+66.36%
+Holy Paladin
+Versus:	Pirate Rogue
+Winrate:	60.55%
+Games:	933
+Twitch VODs available!
+60.55%
+Holy Paladin
+Versus:	Quest Priest
+Winrate:	43.89%
+Games:	1,146
+Twitch VODs available!
+43.89%
+Holy Paladin
+Versus:	Mech Mage
+Winrate:	52.54%
+Games:	1,277
+Twitch VODs available!
+52.54%
+Holy Paladin
+Versus:	Boar Priest
+Winrate:	42.62%
+Games:	1,621
+Twitch VODs available!
+42.62%
+Holy Paladin
+Versus:	Burn Shaman
+Winrate:	57.70%
+Games:	1,759
+Twitch VODs available!
+57.70%
+Holy Paladin
+Versus:	Celestial Druid
+Winrate:	43.27%
+Games:	1,421
+Twitch VODs available!
+43.27%
+Holy Paladin
+Versus:	Ramp Druid
+Winrate:	49.39%
+Games:	1,478
+Twitch VODs available!
+49.39%
+Holy Paladin
+Versus:	Charge Warrior
+Winrate:	48.21%
+Games:	2,211
+Twitch VODs available!
+48.21%
+Holy Paladin
+Versus:	Quest Warrior
+Winrate:	41.33%
+Games:	2,105
+Twitch VODs available!
+41.33%
+Holy Paladin
+Versus:	Naga Mage
+Winrate:	58.08%
+Games:	2,474
+Twitch VODs available!
+58.08%
+Holy Paladin
+Versus:	Handbuff Paladin
+Winrate:	51.65%
+Games:	2,292
+Twitch VODs available!
+51.65%
+Holy Paladin
+Versus:	Bless Priest
+Winrate:	63.50%
+Games:	3,228
+Twitch VODs available!
+63.50%
+Holy Paladin
+Versus:	Murloc Warlock
+Winrate:	56.86%
+Games:	2,376
+Twitch VODs available!
+56.86%
+Holy Paladin
+Versus:	Control Warrior
+Winrate:	39.73%
+Games:	2,884
+Twitch VODs available!
+39.73%
+Holy Paladin
+Versus:	Mech Paladin
+Winrate:	43.45%
+Games:	4,904
+Twitch VODs available!
+43.45%
+Holy Paladin
+Versus:	Curse Warlock
+Winrate:	44.91%
+Games:	5,648
+Twitch VODs available!
+44.91%
+Holy Paladin
+Versus:	Beast Hunter
+Winrate:	53.30%
+Games:	6,196
+Twitch VODs available!
+53.30%
+Holy Paladin
+Versus:	Thief Rogue
+Winrate:	63.25%
+Games:	9,118
+Twitch VODs available!
+63.25%
+Not enough games
+
+?
+Not enough games
+
+?
+Face Hunter
+Versus:	Beast Druid
+Winrate:	44.50%
+Games:	173
+44.50%
+Face Hunter
+Versus:	Fel Demon Hunter
+Winrate:	52.23%
+Games:	335
+52.23%
+Face Hunter
+Versus:	Holy Paladin
+Winrate:	33.63%
+Games:	874
+Twitch VODs available!
+33.63%
+Face Hunter
+Mirror matchup
+TwitchTwitch VODs available!
+Face Hunter
+Versus:	Pirate Rogue
+Winrate:	59.45%
+Games:	925
+Twitch VODs available!
+59.45%
+Face Hunter
+Versus:	Quest Priest
+Winrate:	50.56%
+Games:	1,240
+50.56%
+Face Hunter
+Versus:	Mech Mage
+Winrate:	58.92%
+Games:	1,076
+58.92%
+Face Hunter
+Versus:	Boar Priest
+Winrate:	54.42%
+Games:	1,705
+Twitch VODs available!
+54.42%
+Face Hunter
+Versus:	Burn Shaman
+Winrate:	47.82%
+Games:	1,612
+Twitch VODs available!
+47.82%
+Face Hunter
+Versus:	Celestial Druid
+Winrate:	67.49%
+Games:	1,566
+Twitch VODs available!
+67.49%
+Face Hunter
+Versus:	Ramp Druid
+Winrate:	61.09%
+Games:	1,614
+Twitch VODs available!
+61.09%
+Face Hunter
+Versus:	Charge Warrior
+Winrate:	46.05%
+Games:	2,232
+Twitch VODs available!
+46.05%
+Face Hunter
+Versus:	Quest Warrior
+Winrate:	64.42%
+Games:	2,004
+Twitch VODs available!
+64.42%
+Face Hunter
+Versus:	Naga Mage
+Winrate:	55.69%
+Games:	2,713
+Twitch VODs available!
+55.69%
+Face Hunter
+Versus:	Handbuff Paladin
+Winrate:	41.26%
+Games:	2,319
+Twitch VODs available!
+41.26%
+Face Hunter
+Versus:	Bless Priest
+Winrate:	50.62%
+Games:	2,730
+Twitch VODs available!
+50.62%
+Face Hunter
+Versus:	Murloc Warlock
+Winrate:	56.39%
+Games:	2,924
+Twitch VODs available!
+56.39%
+Face Hunter
+Versus:	Control Warrior
+Winrate:	37.35%
+Games:	2,527
+Twitch VODs available!
+37.35%
+Face Hunter
+Versus:	Mech Paladin
+Winrate:	50.47%
+Games:	5,458
+Twitch VODs available!
+50.47%
+Face Hunter
+Versus:	Curse Warlock
+Winrate:	48.56%
+Games:	6,780
+Twitch VODs available!
+48.56%
+Face Hunter
+Versus:	Beast Hunter
+Winrate:	52.60%
+Games:	6,250
+Twitch VODs available!
+52.60%
+Face Hunter
+Versus:	Thief Rogue
+Winrate:	50.05%
+Games:	9,175
+Twitch VODs available!
+50.05%
+Not enough games
+
+?
+Face Hunter
+Versus:	Token Demon Hunter
+Winrate:	51.51%
+Games:	33
+51.51%
+Pirate Rogue
+Versus:	Beast Druid
+Winrate:	44.70%
+Games:	302
+44.70%
+Pirate Rogue
+Versus:	Fel Demon Hunter
+Winrate:	40.89%
+Games:	445
+Twitch VODs available!
+40.89%
+Pirate Rogue
+Versus:	Holy Paladin
+Winrate:	39.44%
+Games:	933
+Twitch VODs available!
+39.44%
+Pirate Rogue
+Versus:	Face Hunter
+Winrate:	40.54%
+Games:	925
+Twitch VODs available!
+40.54%
+Pirate Rogue
+Mirror matchup
+TwitchTwitch VODs available!
+Pirate Rogue
+Versus:	Quest Priest
+Winrate:	60.75%
+Games:	1,720
+Twitch VODs available!
+60.75%
+Pirate Rogue
+Versus:	Mech Mage
+Winrate:	42.83%
+Games:	1,597
+Twitch VODs available!
+42.83%
+Pirate Rogue
+Versus:	Boar Priest
+Winrate:	66.38%
+Games:	1,779
+Twitch VODs available!
+66.38%
+Pirate Rogue
+Versus:	Burn Shaman
+Winrate:	40.04%
+Games:	1,623
+Twitch VODs available!
+40.04%
+Pirate Rogue
+Versus:	Celestial Druid
+Winrate:	66.38%
+Games:	2,157
+Twitch VODs available!
+66.38%
+Pirate Rogue
+Versus:	Ramp Druid
+Winrate:	58.60%
+Games:	2,179
+Twitch VODs available!
+58.60%
+Pirate Rogue
+Versus:	Charge Warrior
+Winrate:	45.17%
+Games:	2,001
+Twitch VODs available!
+45.17%
+Pirate Rogue
+Versus:	Quest Warrior
+Winrate:	46.31%
+Games:	2,606
+Twitch VODs available!
+46.31%
+Pirate Rogue
+Versus:	Naga Mage
+Winrate:	41.35%
+Games:	3,204
+Twitch VODs available!
+41.35%
+Pirate Rogue
+Versus:	Handbuff Paladin
+Winrate:	37.95%
+Games:	3,030
+Twitch VODs available!
+37.95%
+Pirate Rogue
+Versus:	Bless Priest
+Winrate:	50.81%
+Games:	2,757
+Twitch VODs available!
+50.81%
+Pirate Rogue
+Versus:	Murloc Warlock
+Winrate:	50.53%
+Games:	3,342
+Twitch VODs available!
+50.53%
+Pirate Rogue
+Versus:	Control Warrior
+Winrate:	47.19%
+Games:	3,767
+Twitch VODs available!
+47.19%
+Pirate Rogue
+Versus:	Mech Paladin
+Winrate:	39.70%
+Games:	5,584
+Twitch VODs available!
+39.70%
+Pirate Rogue
+Versus:	Curse Warlock
+Winrate:	44.99%
+Games:	7,681
+Twitch VODs available!
+44.99%
+Pirate Rogue
+Versus:	Beast Hunter
+Winrate:	40.82%
+Games:	7,603
+Twitch VODs available!
+40.82%
+Pirate Rogue
+Versus:	Thief Rogue
+Winrate:	41.22%
+Games:	10,722
+Twitch VODs available!
+41.22%
+Not enough games
+
+?
+Pirate Rogue
+Versus:	Token Demon Hunter
+Winrate:	52.27%
+Games:	44
+52.27%
+Quest Priest
+Versus:	Beast Druid
+Winrate:	57.34%
+Games:	429
+Twitch VODs available!
+57.34%
+Quest Priest
+Versus:	Fel Demon Hunter
+Winrate:	40.00%
+Games:	640
+Twitch VODs available!
+40.00%
+Quest Priest
+Versus:	Holy Paladin
+Winrate:	56.10%
+Games:	1,146
+Twitch VODs available!
+56.10%
+Quest Priest
+Versus:	Face Hunter
+Winrate:	49.43%
+Games:	1,240
+Twitch VODs available!
+49.43%
+Quest Priest
+Versus:	Pirate Rogue
+Winrate:	39.24%
+Games:	1,720
+Twitch VODs available!
+39.24%
+Quest Priest
+Mirror matchup
+TwitchTwitch VODs available!
+Quest Priest
+Versus:	Mech Mage
+Winrate:	45.22%
+Games:	2,386
+Twitch VODs available!
+45.22%
+Quest Priest
+Versus:	Boar Priest
+Winrate:	37.69%
+Games:	1,727
+Twitch VODs available!
+37.69%
+Quest Priest
+Versus:	Burn Shaman
+Winrate:	46.36%
+Games:	2,021
+Twitch VODs available!
+46.36%
+Quest Priest
+Versus:	Celestial Druid
+Winrate:	26.07%
+Games:	2,366
+Twitch VODs available!
+26.07%
+Quest Priest
+Versus:	Ramp Druid
+Winrate:	39.76%
+Games:	2,605
+Twitch VODs available!
+39.76%
+Quest Priest
+Versus:	Charge Warrior
+Winrate:	41.98%
+Games:	2,158
+Twitch VODs available!
+41.98%
+Quest Priest
+Versus:	Quest Warrior
+Winrate:	29.36%
+Games:	3,940
+Twitch VODs available!
+29.36%
+Quest Priest
+Versus:	Naga Mage
+Winrate:	31.49%
+Games:	3,648
+Twitch VODs available!
+31.49%
+Quest Priest
+Versus:	Handbuff Paladin
+Winrate:	48.90%
+Games:	4,081
+Twitch VODs available!
+48.90%
+Quest Priest
+Versus:	Bless Priest
+Winrate:	51.37%
+Games:	3,558
+Twitch VODs available!
+51.37%
+Quest Priest
+Versus:	Murloc Warlock
+Winrate:	46.87%
+Games:	4,245
+Twitch VODs available!
+46.87%
+Quest Priest
+Versus:	Control Warrior
+Winrate:	63.16%
+Games:	4,317
+Twitch VODs available!
+63.16%
+Quest Priest
+Versus:	Mech Paladin
+Winrate:	47.40%
+Games:	7,356
+Twitch VODs available!
+47.40%
+Quest Priest
+Versus:	Curse Warlock
+Winrate:	40.21%
+Games:	9,683
+Twitch VODs available!
+40.21%
+Quest Priest
+Versus:	Beast Hunter
+Winrate:	40.06%
+Games:	9,775
+Twitch VODs available!
+40.06%
+Quest Priest
+Versus:	Thief Rogue
+Winrate:	44.52%
+Games:	12,773
+Twitch VODs available!
+44.52%
+Quest Priest
+Versus:	Murloc Shaman
+Winrate:	37.73%
+Games:	53
+37.73%
+Quest Priest
+Versus:	Token Demon Hunter
+Winrate:	63.04%
+Games:	46
+63.04%
+Mech Mage
+Versus:	Beast Druid
+Winrate:	53.80%
+Games:	368
+53.80%
+Mech Mage
+Versus:	Fel Demon Hunter
+Winrate:	56.96%
+Games:	560
+Twitch VODs available!
+56.96%
+Mech Mage
+Versus:	Holy Paladin
+Winrate:	47.45%
+Games:	1,277
+Twitch VODs available!
+47.45%
+Mech Mage
+Versus:	Face Hunter
+Winrate:	41.07%
+Games:	1,076
+Twitch VODs available!
+41.07%
+Mech Mage
+Versus:	Pirate Rogue
+Winrate:	57.16%
+Games:	1,597
+Twitch VODs available!
+57.16%
+Mech Mage
+Versus:	Quest Priest
+Winrate:	54.77%
+Games:	2,386
+Twitch VODs available!
+54.77%
+Mech Mage
+Mirror matchup
+TwitchTwitch VODs available!
+Mech Mage
+Versus:	Boar Priest
+Winrate:	55.94%
+Games:	1,775
+Twitch VODs available!
+55.94%
+Mech Mage
+Versus:	Burn Shaman
+Winrate:	38.43%
+Games:	2,076
+Twitch VODs available!
+38.43%
+Mech Mage
+Versus:	Celestial Druid
+Winrate:	65.88%
+Games:	2,163
+Twitch VODs available!
+65.88%
+Mech Mage
+Versus:	Ramp Druid
+Winrate:	60.00%
+Games:	2,740
+Twitch VODs available!
+60.00%
+Mech Mage
+Versus:	Charge Warrior
+Winrate:	44.23%
+Games:	2,342
+Twitch VODs available!
+44.23%
+Mech Mage
+Versus:	Quest Warrior
+Winrate:	50.71%
+Games:	3,922
+Twitch VODs available!
+50.71%
+Mech Mage
+Versus:	Naga Mage
+Winrate:	47.59%
+Games:	3,509
+Twitch VODs available!
+47.59%
+Mech Mage
+Versus:	Handbuff Paladin
+Winrate:	51.66%
+Games:	4,254
+Twitch VODs available!
+51.66%
+Mech Mage
+Versus:	Bless Priest
+Winrate:	43.94%
+Games:	3,454
+Twitch VODs available!
+43.94%
+Mech Mage
+Versus:	Murloc Warlock
+Winrate:	39.96%
+Games:	3,906
+Twitch VODs available!
+39.96%
+Mech Mage
+Versus:	Control Warrior
+Winrate:	42.70%
+Games:	4,880
+Twitch VODs available!
+42.70%
+Mech Mage
+Versus:	Mech Paladin
+Winrate:	57.10%
+Games:	7,898
+Twitch VODs available!
+57.10%
+Mech Mage
+Versus:	Curse Warlock
+Winrate:	42.72%
+Games:	10,867
+Twitch VODs available!
+42.72%
+Mech Mage
+Versus:	Beast Hunter
+Winrate:	49.15%
+Games:	10,336
+Twitch VODs available!
+49.15%
+Mech Mage
+Versus:	Thief Rogue
+Winrate:	50.88%
+Games:	13,459
+Twitch VODs available!
+50.88%
+Mech Mage
+Versus:	Murloc Shaman
+Winrate:	28.57%
+Games:	35
+28.57%
+Mech Mage
+Versus:	Token Demon Hunter
+Winrate:	65.00%
+Games:	40
+65.00%
+Boar Priest
+Versus:	Beast Druid
+Winrate:	57.84%
+Games:	306
+Twitch VODs available!
+57.84%
+Boar Priest
+Versus:	Fel Demon Hunter
+Winrate:	38.49%
+Games:	626
+Twitch VODs available!
+38.49%
+Boar Priest
+Versus:	Holy Paladin
+Winrate:	57.37%
+Games:	1,621
+Twitch VODs available!
+57.37%
+Boar Priest
+Versus:	Face Hunter
+Winrate:	45.57%
+Games:	1,705
+Twitch VODs available!
+45.57%
+Boar Priest
+Versus:	Pirate Rogue
+Winrate:	33.61%
+Games:	1,779
+Twitch VODs available!
+33.61%
+Boar Priest
+Versus:	Quest Priest
+Winrate:	62.30%
+Games:	1,727
+Twitch VODs available!
+62.30%
+Boar Priest
+Versus:	Mech Mage
+Winrate:	44.05%
+Games:	1,775
+Twitch VODs available!
+44.05%
+Boar Priest
+Mirror matchup
+TwitchTwitch VODs available!
+Boar Priest
+Versus:	Burn Shaman
+Winrate:	43.49%
+Games:	2,952
+Twitch VODs available!
+43.49%
+Boar Priest
+Versus:	Celestial Druid
+Winrate:	7.41%
+Games:	3,438
+Twitch VODs available!
+7.41%
+Boar Priest
+Versus:	Ramp Druid
+Winrate:	38.59%
+Games:	2,682
+Twitch VODs available!
+38.59%
+Boar Priest
+Versus:	Charge Warrior
+Winrate:	55.95%
+Games:	4,722
+Twitch VODs available!
+55.95%
+Boar Priest
+Versus:	Quest Warrior
+Winrate:	25.01%
+Games:	2,590
+Twitch VODs available!
+25.01%
+Boar Priest
+Versus:	Naga Mage
+Winrate:	54.83%
+Games:	4,643
+Twitch VODs available!
+54.83%
+Boar Priest
+Versus:	Handbuff Paladin
+Winrate:	47.80%
+Games:	3,602
+Twitch VODs available!
+47.80%
+Boar Priest
+Versus:	Bless Priest
+Winrate:	35.89%
+Games:	5,321
+Twitch VODs available!
+35.89%
+Boar Priest
+Versus:	Murloc Warlock
+Winrate:	43.02%
+Games:	4,021
+Twitch VODs available!
+43.02%
+Boar Priest
+Versus:	Control Warrior
+Winrate:	66.71%
+Games:	5,056
+Twitch VODs available!
+66.71%
+Boar Priest
+Versus:	Mech Paladin
+Winrate:	47.98%
+Games:	8,122
+Twitch VODs available!
+47.98%
+Boar Priest
+Versus:	Curse Warlock
+Winrate:	43.03%
+Games:	9,858
+Twitch VODs available!
+43.03%
+Boar Priest
+Versus:	Beast Hunter
+Winrate:	34.59%
+Games:	10,027
+Twitch VODs available!
+34.59%
+Boar Priest
+Versus:	Thief Rogue
+Winrate:	41.31%
+Games:	17,655
+Twitch VODs available!
+41.31%
+Boar Priest
+Versus:	Murloc Shaman
+Winrate:	48.78%
+Games:	41
+48.78%
+Boar Priest
+Versus:	Token Demon Hunter
+Winrate:	51.61%
+Games:	31
+51.61%
+Burn Shaman
+Versus:	Beast Druid
+Winrate:	68.84%
+Games:	398
+68.84%
+Burn Shaman
+Versus:	Fel Demon Hunter
+Winrate:	53.39%
+Games:	706
+53.39%
+Burn Shaman
+Versus:	Holy Paladin
+Winrate:	42.29%
+Games:	1,759
+Twitch VODs available!
+42.29%
+Burn Shaman
+Versus:	Face Hunter
+Winrate:	52.17%
+Games:	1,612
+Twitch VODs available!
+52.17%
+Burn Shaman
+Versus:	Pirate Rogue
+Winrate:	59.95%
+Games:	1,623
+Twitch VODs available!
+59.95%
+Burn Shaman
+Versus:	Quest Priest
+Winrate:	53.63%
+Games:	2,021
+Twitch VODs available!
+53.63%
+Burn Shaman
+Versus:	Mech Mage
+Winrate:	61.56%
+Games:	2,076
+Twitch VODs available!
+61.56%
+Burn Shaman
+Versus:	Boar Priest
+Winrate:	56.50%
+Games:	2,952
+Twitch VODs available!
+56.50%
+Burn Shaman
+Mirror matchup
+TwitchTwitch VODs available!
+Burn Shaman
+Versus:	Celestial Druid
+Winrate:	49.24%
+Games:	2,833
+Twitch VODs available!
+49.24%
+Burn Shaman
+Versus:	Ramp Druid
+Winrate:	51.68%
+Games:	2,732
+Twitch VODs available!
+51.68%
+Burn Shaman
+Versus:	Charge Warrior
+Winrate:	44.46%
+Games:	3,942
+Twitch VODs available!
+44.46%
+Burn Shaman
+Versus:	Quest Warrior
+Winrate:	54.90%
+Games:	3,222
+Twitch VODs available!
+54.90%
+Burn Shaman
+Versus:	Naga Mage
+Winrate:	53.06%
+Games:	4,704
+Twitch VODs available!
+53.06%
+Burn Shaman
+Versus:	Handbuff Paladin
+Winrate:	51.24%
+Games:	4,121
+Twitch VODs available!
+51.24%
+Burn Shaman
+Versus:	Bless Priest
+Winrate:	62.45%
+Games:	5,156
+Twitch VODs available!
+62.45%
+Burn Shaman
+Versus:	Murloc Warlock
+Winrate:	52.80%
+Games:	4,352
+Twitch VODs available!
+52.80%
+Burn Shaman
+Versus:	Control Warrior
+Winrate:	37.61%
+Games:	4,995
+Twitch VODs available!
+37.61%
+Burn Shaman
+Versus:	Mech Paladin
+Winrate:	51.80%
+Games:	8,821
+Twitch VODs available!
+51.80%
+Burn Shaman
+Versus:	Curse Warlock
+Winrate:	35.30%
+Games:	10,449
+Twitch VODs available!
+35.30%
+Burn Shaman
+Versus:	Beast Hunter
+Winrate:	57.72%
+Games:	11,121
+Twitch VODs available!
+57.72%
+Burn Shaman
+Versus:	Thief Rogue
+Winrate:	54.39%
+Games:	16,405
+Twitch VODs available!
+54.39%
+Burn Shaman
+Versus:	Murloc Shaman
+Winrate:	65.00%
+Games:	40
+65.00%
+Burn Shaman
+Versus:	Token Demon Hunter
+Winrate:	70.27%
+Games:	37
+Twitch VODs available!
+70.27%
+Celestial Druid
+Versus:	Beast Druid
+Winrate:	25.21%
+Games:	353
+Twitch VODs available!
+25.21%
+Celestial Druid
+Versus:	Fel Demon Hunter
+Winrate:	54.59%
+Games:	740
+Twitch VODs available!
+54.59%
+Celestial Druid
+Versus:	Holy Paladin
+Winrate:	56.72%
+Games:	1,421
+Twitch VODs available!
+56.72%
+Celestial Druid
+Versus:	Face Hunter
+Winrate:	32.50%
+Games:	1,566
+Twitch VODs available!
+32.50%
+Celestial Druid
+Versus:	Pirate Rogue
+Winrate:	33.61%
+Games:	2,157
+Twitch VODs available!
+33.61%
+Celestial Druid
+Versus:	Quest Priest
+Winrate:	73.92%
+Games:	2,366
+Twitch VODs available!
+73.92%
+Celestial Druid
+Versus:	Mech Mage
+Winrate:	34.11%
+Games:	2,163
+Twitch VODs available!
+34.11%
+Celestial Druid
+Versus:	Boar Priest
+Winrate:	92.58%
+Games:	3,438
+Twitch VODs available!
+92.58%
+Celestial Druid
+Versus:	Burn Shaman
+Winrate:	50.75%
+Games:	2,833
+Twitch VODs available!
+50.75%
+Celestial Druid
+Mirror matchup
+TwitchTwitch VODs available!
+Celestial Druid
+Versus:	Ramp Druid
+Winrate:	54.76%
+Games:	3,674
+Twitch VODs available!
+54.76%
+Celestial Druid
+Versus:	Charge Warrior
+Winrate:	69.13%
+Games:	4,079
+Twitch VODs available!
+69.13%
+Celestial Druid
+Versus:	Quest Warrior
+Winrate:	27.93%
+Games:	3,272
+Twitch VODs available!
+27.93%
+Celestial Druid
+Versus:	Naga Mage
+Winrate:	49.93%
+Games:	5,297
+Twitch VODs available!
+49.93%
+Celestial Druid
+Versus:	Handbuff Paladin
+Winrate:	41.02%
+Games:	4,363
+Twitch VODs available!
+41.02%
+Celestial Druid
+Versus:	Bless Priest
+Winrate:	32.69%
+Games:	4,405
+Twitch VODs available!
+32.69%
+Celestial Druid
+Versus:	Murloc Warlock
+Winrate:	18.05%
+Games:	4,525
+Twitch VODs available!
+18.05%
+Celestial Druid
+Versus:	Control Warrior
+Winrate:	66.95%
+Games:	6,183
+Twitch VODs available!
+66.95%
+Celestial Druid
+Versus:	Mech Paladin
+Winrate:	30.08%
+Games:	8,622
+Twitch VODs available!
+30.08%
+Celestial Druid
+Versus:	Curse Warlock
+Winrate:	50.93%
+Games:	12,668
+Twitch VODs available!
+50.93%
+Celestial Druid
+Versus:	Beast Hunter
+Winrate:	41.47%
+Games:	11,811
+Twitch VODs available!
+41.47%
+Celestial Druid
+Versus:	Thief Rogue
+Winrate:	36.13%
+Games:	18,974
+Twitch VODs available!
+36.13%
+Celestial Druid
+Versus:	Murloc Shaman
+Winrate:	25.39%
+Games:	63
+25.39%
+Celestial Druid
+Versus:	Token Demon Hunter
+Winrate:	51.16%
+Games:	43
+51.16%
+Ramp Druid
+Versus:	Beast Druid
+Winrate:	29.98%
+Games:	507
+29.98%
+Ramp Druid
+Versus:	Fel Demon Hunter
+Winrate:	55.46%
+Games:	860
+Twitch VODs available!
+55.46%
+Ramp Druid
+Versus:	Holy Paladin
+Winrate:	50.60%
+Games:	1,478
+Twitch VODs available!
+50.60%
+Ramp Druid
+Versus:	Face Hunter
+Winrate:	38.90%
+Games:	1,614
+Twitch VODs available!
+38.90%
+Ramp Druid
+Versus:	Pirate Rogue
+Winrate:	41.39%
+Games:	2,179
+Twitch VODs available!
+41.39%
+Ramp Druid
+Versus:	Quest Priest
+Winrate:	60.23%
+Games:	2,605
+Twitch VODs available!
+60.23%
+Ramp Druid
+Versus:	Mech Mage
+Winrate:	40.00%
+Games:	2,740
+Twitch VODs available!
+40.00%
+Ramp Druid
+Versus:	Boar Priest
+Winrate:	61.40%
+Games:	2,682
+Twitch VODs available!
+61.40%
+Ramp Druid
+Versus:	Burn Shaman
+Winrate:	48.31%
+Games:	2,732
+Twitch VODs available!
+48.31%
+Ramp Druid
+Versus:	Celestial Druid
+Winrate:	45.23%
+Games:	3,674
+Twitch VODs available!
+45.23%
+Ramp Druid
+Mirror matchup
+TwitchTwitch VODs available!
+Ramp Druid
+Versus:	Charge Warrior
+Winrate:	56.62%
+Games:	3,380
+Twitch VODs available!
+56.62%
+Ramp Druid
+Versus:	Quest Warrior
+Winrate:	41.12%
+Games:	4,226
+Twitch VODs available!
+41.12%
+Ramp Druid
+Versus:	Naga Mage
+Winrate:	43.93%
+Games:	5,067
+Twitch VODs available!
+43.93%
+Ramp Druid
+Versus:	Handbuff Paladin
+Winrate:	48.19%
+Games:	5,233
+Twitch VODs available!
+48.19%
+Ramp Druid
+Versus:	Bless Priest
+Winrate:	34.27%
+Games:	4,820
+Twitch VODs available!
+34.27%
+Ramp Druid
+Versus:	Murloc Warlock
+Winrate:	23.08%
+Games:	5,203
+Twitch VODs available!
+23.08%
+Ramp Druid
+Versus:	Control Warrior
+Winrate:	65.79%
+Games:	6,067
+Twitch VODs available!
+65.79%
+Ramp Druid
+Versus:	Mech Paladin
+Winrate:	35.16%
+Games:	10,256
+Twitch VODs available!
+35.16%
+Ramp Druid
+Versus:	Curse Warlock
+Winrate:	55.82%
+Games:	12,741
+Twitch VODs available!
+55.82%
+Ramp Druid
+Versus:	Beast Hunter
+Winrate:	48.17%
+Games:	12,525
+Twitch VODs available!
+48.17%
+Ramp Druid
+Versus:	Thief Rogue
+Winrate:	41.04%
+Games:	18,608
+Twitch VODs available!
+41.04%
+Ramp Druid
+Versus:	Murloc Shaman
+Winrate:	31.88%
+Games:	69
+31.88%
+Ramp Druid
+Versus:	Token Demon Hunter
+Winrate:	50.94%
+Games:	53
+Twitch VODs available!
+50.94%
+Charge Warrior
+Versus:	Beast Druid
+Winrate:	47.45%
+Games:	413
+Twitch VODs available!
+47.45%
+Charge Warrior
+Versus:	Fel Demon Hunter
+Winrate:	54.24%
+Games:	719
+Twitch VODs available!
+54.24%
+Charge Warrior
+Versus:	Holy Paladin
+Winrate:	51.78%
+Games:	2,211
+Twitch VODs available!
+51.78%
+Charge Warrior
+Versus:	Face Hunter
+Winrate:	53.94%
+Games:	2,232
+Twitch VODs available!
+53.94%
+Charge Warrior
+Versus:	Pirate Rogue
+Winrate:	54.82%
+Games:	2,001
+Twitch VODs available!
+54.82%
+Charge Warrior
+Versus:	Quest Priest
+Winrate:	58.01%
+Games:	2,158
+Twitch VODs available!
+58.01%
+Charge Warrior
+Versus:	Mech Mage
+Winrate:	55.76%
+Games:	2,342
+Twitch VODs available!
+55.76%
+Charge Warrior
+Versus:	Boar Priest
+Winrate:	44.04%
+Games:	4,722
+Twitch VODs available!
+44.04%
+Charge Warrior
+Versus:	Burn Shaman
+Winrate:	55.53%
+Games:	3,942
+Twitch VODs available!
+55.53%
+Charge Warrior
+Versus:	Celestial Druid
+Winrate:	30.86%
+Games:	4,079
+Twitch VODs available!
+30.86%
+Charge Warrior
+Versus:	Ramp Druid
+Winrate:	43.37%
+Games:	3,380
+Twitch VODs available!
+43.37%
+Charge Warrior
+Mirror matchup
+TwitchTwitch VODs available!
+Charge Warrior
+Versus:	Quest Warrior
+Winrate:	35.15%
+Games:	3,337
+Twitch VODs available!
+35.15%
+Charge Warrior
+Versus:	Naga Mage
+Winrate:	71.36%
+Games:	5,808
+Twitch VODs available!
+71.36%
+Charge Warrior
+Versus:	Handbuff Paladin
+Winrate:	37.37%
+Games:	4,056
+Twitch VODs available!
+37.37%
+Charge Warrior
+Versus:	Bless Priest
+Winrate:	38.79%
+Games:	7,326
+Twitch VODs available!
+38.79%
+Charge Warrior
+Versus:	Murloc Warlock
+Winrate:	50.01%
+Games:	4,501
+Twitch VODs available!
+50.01%
+Charge Warrior
+Versus:	Control Warrior
+Winrate:	46.56%
+Games:	6,172
+Twitch VODs available!
+46.56%
+Charge Warrior
+Versus:	Mech Paladin
+Winrate:	29.86%
+Games:	11,001
+Twitch VODs available!
+29.86%
+Charge Warrior
+Versus:	Curse Warlock
+Winrate:	68.86%
+Games:	13,029
+Twitch VODs available!
+68.86%
+Charge Warrior
+Versus:	Beast Hunter
+Winrate:	41.66%
+Games:	14,517
+Twitch VODs available!
+41.66%
+Charge Warrior
+Versus:	Thief Rogue
+Winrate:	62.35%
+Games:	23,899
+Twitch VODs available!
+62.35%
+Charge Warrior
+Versus:	Murloc Shaman
+Winrate:	64.28%
+Games:	56
+Twitch VODs available!
+64.28%
+Charge Warrior
+Versus:	Token Demon Hunter
+Winrate:	73.68%
+Games:	38
+73.68%
+Quest Warrior
+Versus:	Beast Druid
+Winrate:	45.06%
+Games:	699
+Twitch VODs available!
+45.06%
+Quest Warrior
+Versus:	Fel Demon Hunter
+Winrate:	52.18%
+Games:	916
+Twitch VODs available!
+52.18%
+Quest Warrior
+Versus:	Holy Paladin
+Winrate:	58.66%
+Games:	2,105
+Twitch VODs available!
+58.66%
+Quest Warrior
+Versus:	Face Hunter
+Winrate:	35.57%
+Games:	2,004
+Twitch VODs available!
+35.57%
+Quest Warrior
+Versus:	Pirate Rogue
+Winrate:	53.68%
+Games:	2,606
+Twitch VODs available!
+53.68%
+Quest Warrior
+Versus:	Quest Priest
+Winrate:	70.63%
+Games:	3,940
+Twitch VODs available!
+70.63%
+Quest Warrior
+Versus:	Mech Mage
+Winrate:	49.28%
+Games:	3,922
+Twitch VODs available!
+49.28%
+Quest Warrior
+Versus:	Boar Priest
+Winrate:	74.98%
+Games:	2,590
+Twitch VODs available!
+74.98%
+Quest Warrior
+Versus:	Burn Shaman
+Winrate:	45.09%
+Games:	3,222
+Twitch VODs available!
+45.09%
+Quest Warrior
+Versus:	Celestial Druid
+Winrate:	72.06%
+Games:	3,272
+Twitch VODs available!
+72.06%
+Quest Warrior
+Versus:	Ramp Druid
+Winrate:	58.87%
+Games:	4,226
+Twitch VODs available!
+58.87%
+Quest Warrior
+Versus:	Charge Warrior
+Winrate:	64.84%
+Games:	3,337
+Twitch VODs available!
+64.84%
+Quest Warrior
+Mirror matchup
+TwitchTwitch VODs available!
+Quest Warrior
+Versus:	Naga Mage
+Winrate:	48.83%
+Games:	5,650
+Twitch VODs available!
+48.83%
+Quest Warrior
+Versus:	Handbuff Paladin
+Winrate:	45.56%
+Games:	7,276
+Twitch VODs available!
+45.56%
+Quest Warrior
+Versus:	Bless Priest
+Winrate:	47.65%
+Games:	5,718
+Twitch VODs available!
+47.65%
+Quest Warrior
+Versus:	Murloc Warlock
+Winrate:	43.40%
+Games:	7,409
+Twitch VODs available!
+43.40%
+Quest Warrior
+Versus:	Control Warrior
+Winrate:	61.05%
+Games:	7,375
+Twitch VODs available!
+61.05%
+Quest Warrior
+Versus:	Mech Paladin
+Winrate:	52.62%
+Games:	14,055
+Twitch VODs available!
+52.62%
+Quest Warrior
+Versus:	Curse Warlock
+Winrate:	67.70%
+Games:	16,544
+Twitch VODs available!
+67.70%
+Quest Warrior
+Versus:	Beast Hunter
+Winrate:	32.70%
+Games:	17,240
+Twitch VODs available!
+32.70%
+Quest Warrior
+Versus:	Thief Rogue
+Winrate:	45.20%
+Games:	20,376
+Twitch VODs available!
+45.20%
+Quest Warrior
+Versus:	Murloc Shaman
+Winrate:	61.76%
+Games:	68
+61.76%
+Quest Warrior
+Versus:	Token Demon Hunter
+Winrate:	79.01%
+Games:	81
+79.01%
+Naga Mage
+Versus:	Beast Druid
+Winrate:	57.68%
+Games:	657
+Twitch VODs available!
+57.68%
+Naga Mage
+Versus:	Fel Demon Hunter
+Winrate:	51.63%
+Games:	1,220
+Twitch VODs available!
+51.63%
+Naga Mage
+Versus:	Holy Paladin
+Winrate:	41.91%
+Games:	2,474
+Twitch VODs available!
+41.91%
+Naga Mage
+Versus:	Face Hunter
+Winrate:	44.30%
+Games:	2,713
+Twitch VODs available!
+44.30%
+Naga Mage
+Versus:	Pirate Rogue
+Winrate:	58.64%
+Games:	3,204
+Twitch VODs available!
+58.64%
+Naga Mage
+Versus:	Quest Priest
+Winrate:	68.50%
+Games:	3,648
+Twitch VODs available!
+68.50%
+Naga Mage
+Versus:	Mech Mage
+Winrate:	52.40%
+Games:	3,509
+Twitch VODs available!
+52.40%
+Naga Mage
+Versus:	Boar Priest
+Winrate:	45.16%
+Games:	4,643
+Twitch VODs available!
+45.16%
+Naga Mage
+Versus:	Burn Shaman
+Winrate:	46.93%
+Games:	4,704
+Twitch VODs available!
+46.93%
+Naga Mage
+Versus:	Celestial Druid
+Winrate:	50.06%
+Games:	5,297
+Twitch VODs available!
+50.06%
+Naga Mage
+Versus:	Ramp Druid
+Winrate:	56.06%
+Games:	5,067
+Twitch VODs available!
+56.06%
+Naga Mage
+Versus:	Charge Warrior
+Winrate:	28.63%
+Games:	5,808
+Twitch VODs available!
+28.63%
+Naga Mage
+Versus:	Quest Warrior
+Winrate:	51.16%
+Games:	5,650
+Twitch VODs available!
+51.16%
+Naga Mage
+Mirror matchup
+TwitchTwitch VODs available!
+Naga Mage
+Versus:	Handbuff Paladin
+Winrate:	49.45%
+Games:	7,480
+Twitch VODs available!
+49.45%
+Naga Mage
+Versus:	Bless Priest
+Winrate:	47.00%
+Games:	7,735
+Twitch VODs available!
+47.00%
+Naga Mage
+Versus:	Murloc Warlock
+Winrate:	52.35%
+Games:	7,965
+Twitch VODs available!
+52.35%
+Naga Mage
+Versus:	Control Warrior
+Winrate:	52.65%
+Games:	8,917
+Twitch VODs available!
+52.65%
+Naga Mage
+Versus:	Mech Paladin
+Winrate:	50.02%
+Games:	14,296
+Twitch VODs available!
+50.02%
+Naga Mage
+Versus:	Curse Warlock
+Winrate:	43.52%
+Games:	18,274
+Twitch VODs available!
+43.52%
+Naga Mage
+Versus:	Beast Hunter
+Winrate:	50.27%
+Games:	18,490
+Twitch VODs available!
+50.27%
+Naga Mage
+Versus:	Thief Rogue
+Winrate:	55.06%
+Games:	27,766
+Twitch VODs available!
+55.06%
+Naga Mage
+Versus:	Murloc Shaman
+Winrate:	64.28%
+Games:	84
+Twitch VODs available!
+64.28%
+Naga Mage
+Versus:	Token Demon Hunter
+Winrate:	69.51%
+Games:	82
+Twitch VODs available!
+69.51%
+Handbuff Paladin
+Versus:	Beast Druid
+Winrate:	46.25%
+Games:	761
+Twitch VODs available!
+46.25%
+Handbuff Paladin
+Versus:	Fel Demon Hunter
+Winrate:	69.12%
+Games:	1,182
+Twitch VODs available!
+69.12%
+Handbuff Paladin
+Versus:	Holy Paladin
+Winrate:	48.34%
+Games:	2,292
+Twitch VODs available!
+48.34%
+Handbuff Paladin
+Versus:	Face Hunter
+Winrate:	58.73%
+Games:	2,319
+Twitch VODs available!
+58.73%
+Handbuff Paladin
+Versus:	Pirate Rogue
+Winrate:	62.04%
+Games:	3,030
+Twitch VODs available!
+62.04%
+Handbuff Paladin
+Versus:	Quest Priest
+Winrate:	51.09%
+Games:	4,081
+Twitch VODs available!
+51.09%
+Handbuff Paladin
+Versus:	Mech Mage
+Winrate:	48.33%
+Games:	4,254
+Twitch VODs available!
+48.33%
+Handbuff Paladin
+Versus:	Boar Priest
+Winrate:	52.19%
+Games:	3,602
+Twitch VODs available!
+52.19%
+Handbuff Paladin
+Versus:	Burn Shaman
+Winrate:	48.75%
+Games:	4,121
+Twitch VODs available!
+48.75%
+Handbuff Paladin
+Versus:	Celestial Druid
+Winrate:	58.97%
+Games:	4,363
+Twitch VODs available!
+58.97%
+Handbuff Paladin
+Versus:	Ramp Druid
+Winrate:	51.80%
+Games:	5,233
+Twitch VODs available!
+51.80%
+Handbuff Paladin
+Versus:	Charge Warrior
+Winrate:	62.62%
+Games:	4,056
+Twitch VODs available!
+62.62%
+Handbuff Paladin
+Versus:	Quest Warrior
+Winrate:	54.42%
+Games:	7,276
+Twitch VODs available!
+54.42%
+Handbuff Paladin
+Versus:	Naga Mage
+Winrate:	50.54%
+Games:	7,480
+Twitch VODs available!
+50.54%
+Handbuff Paladin
+Mirror matchup
+TwitchTwitch VODs available!
+Handbuff Paladin
+Versus:	Bless Priest
+Winrate:	48.27%
+Games:	6,765
+Twitch VODs available!
+48.27%
+Handbuff Paladin
+Versus:	Murloc Warlock
+Winrate:	48.27%
+Games:	8,691
+Twitch VODs available!
+48.27%
+Handbuff Paladin
+Versus:	Control Warrior
+Winrate:	59.10%
+Games:	9,125
+Twitch VODs available!
+59.10%
+Handbuff Paladin
+Versus:	Mech Paladin
+Winrate:	40.66%
+Games:	15,108
+Twitch VODs available!
+40.66%
+Handbuff Paladin
+Versus:	Curse Warlock
+Winrate:	57.51%
+Games:	18,666
+Twitch VODs available!
+57.51%
+Handbuff Paladin
+Versus:	Beast Hunter
+Winrate:	55.17%
+Games:	19,184
+Twitch VODs available!
+55.17%
+Handbuff Paladin
+Versus:	Thief Rogue
+Winrate:	56.47%
+Games:	25,626
+Twitch VODs available!
+56.47%
+Handbuff Paladin
+Versus:	Murloc Shaman
+Winrate:	44.57%
+Games:	83
+Twitch VODs available!
+44.57%
+Handbuff Paladin
+Versus:	Token Demon Hunter
+Winrate:	63.21%
+Games:	87
+Twitch VODs available!
+63.21%
+Bless Priest
+Versus:	Beast Druid
+Winrate:	56.11%
+Games:	711
+Twitch VODs available!
+56.11%
+Bless Priest
+Versus:	Fel Demon Hunter
+Winrate:	52.09%
+Games:	1,098
+Twitch VODs available!
+52.09%
+Bless Priest
+Versus:	Holy Paladin
+Winrate:	36.49%
+Games:	3,228
+Twitch VODs available!
+36.49%
+Bless Priest
+Versus:	Face Hunter
+Winrate:	49.37%
+Games:	2,730
+Twitch VODs available!
+49.37%
+Bless Priest
+Versus:	Pirate Rogue
+Winrate:	49.18%
+Games:	2,757
+Twitch VODs available!
+49.18%
+Bless Priest
+Versus:	Quest Priest
+Winrate:	48.62%
+Games:	3,558
+Twitch VODs available!
+48.62%
+Bless Priest
+Versus:	Mech Mage
+Winrate:	56.05%
+Games:	3,454
+Twitch VODs available!
+56.05%
+Bless Priest
+Versus:	Boar Priest
+Winrate:	64.10%
+Games:	5,321
+Twitch VODs available!
+64.10%
+Bless Priest
+Versus:	Burn Shaman
+Winrate:	37.54%
+Games:	5,156
+Twitch VODs available!
+37.54%
+Bless Priest
+Versus:	Celestial Druid
+Winrate:	67.30%
+Games:	4,405
+Twitch VODs available!
+67.30%
+Bless Priest
+Versus:	Ramp Druid
+Winrate:	65.72%
+Games:	4,820
+Twitch VODs available!
+65.72%
+Bless Priest
+Versus:	Charge Warrior
+Winrate:	61.20%
+Games:	7,326
+Twitch VODs available!
+61.20%
+Bless Priest
+Versus:	Quest Warrior
+Winrate:	52.34%
+Games:	5,718
+Twitch VODs available!
+52.34%
+Bless Priest
+Versus:	Naga Mage
+Winrate:	52.99%
+Games:	7,735
+Twitch VODs available!
+52.99%
+Bless Priest
+Versus:	Handbuff Paladin
+Winrate:	51.72%
+Games:	6,765
+Twitch VODs available!
+51.72%
+Bless Priest
+Mirror matchup
+TwitchTwitch VODs available!
+Bless Priest
+Versus:	Murloc Warlock
+Winrate:	42.86%
+Games:	6,942
+Twitch VODs available!
+42.86%
+Bless Priest
+Versus:	Control Warrior
+Winrate:	50.68%
+Games:	8,758
+Twitch VODs available!
+50.68%
+Bless Priest
+Versus:	Mech Paladin
+Winrate:	55.50%
+Games:	14,648
+Twitch VODs available!
+55.50%
+Bless Priest
+Versus:	Curse Warlock
+Winrate:	57.44%
+Games:	17,215
+Twitch VODs available!
+57.44%
+Bless Priest
+Versus:	Beast Hunter
+Winrate:	49.32%
+Games:	18,834
+Twitch VODs available!
+49.32%
+Bless Priest
+Versus:	Thief Rogue
+Winrate:	45.50%
+Games:	28,558
+Twitch VODs available!
+45.50%
+Bless Priest
+Versus:	Murloc Shaman
+Winrate:	50.74%
+Games:	67
+50.74%
+Bless Priest
+Versus:	Token Demon Hunter
+Winrate:	60.25%
+Games:	78
+60.25%
+Murloc Warlock
+Versus:	Beast Druid
+Winrate:	52.94%
+Games:	731
+Twitch VODs available!
+52.94%
+Murloc Warlock
+Versus:	Fel Demon Hunter
+Winrate:	44.38%
+Games:	1,176
+Twitch VODs available!
+44.38%
+Murloc Warlock
+Versus:	Holy Paladin
+Winrate:	43.13%
+Games:	2,376
+Twitch VODs available!
+43.13%
+Murloc Warlock
+Versus:	Face Hunter
+Winrate:	43.60%
+Games:	2,924
+Twitch VODs available!
+43.60%
+Murloc Warlock
+Versus:	Pirate Rogue
+Winrate:	49.46%
+Games:	3,342
+Twitch VODs available!
+49.46%
+Murloc Warlock
+Versus:	Quest Priest
+Winrate:	53.12%
+Games:	4,245
+Twitch VODs available!
+53.12%
+Murloc Warlock
+Versus:	Mech Mage
+Winrate:	60.03%
+Games:	3,906
+Twitch VODs available!
+60.03%
+Murloc Warlock
+Versus:	Boar Priest
+Winrate:	56.97%
+Games:	4,021
+Twitch VODs available!
+56.97%
+Murloc Warlock
+Versus:	Burn Shaman
+Winrate:	47.19%
+Games:	4,352
+Twitch VODs available!
+47.19%
+Murloc Warlock
+Versus:	Celestial Druid
+Winrate:	81.94%
+Games:	4,525
+Twitch VODs available!
+81.94%
+Murloc Warlock
+Versus:	Ramp Druid
+Winrate:	76.91%
+Games:	5,203
+Twitch VODs available!
+76.91%
+Murloc Warlock
+Versus:	Charge Warrior
+Winrate:	49.98%
+Games:	4,501
+Twitch VODs available!
+49.98%
+Murloc Warlock
+Versus:	Quest Warrior
+Winrate:	56.59%
+Games:	7,409
+Twitch VODs available!
+56.59%
+Murloc Warlock
+Versus:	Naga Mage
+Winrate:	47.64%
+Games:	7,965
+Twitch VODs available!
+47.64%
+Murloc Warlock
+Versus:	Handbuff Paladin
+Winrate:	51.72%
+Games:	8,691
+Twitch VODs available!
+51.72%
+Murloc Warlock
+Versus:	Bless Priest
+Winrate:	57.13%
+Games:	6,942
+Twitch VODs available!
+57.13%
+Murloc Warlock
+Mirror matchup
+TwitchTwitch VODs available!
+Murloc Warlock
+Versus:	Control Warrior
+Winrate:	47.52%
+Games:	8,924
+Twitch VODs available!
+47.52%
+Murloc Warlock
+Versus:	Mech Paladin
+Winrate:	59.03%
+Games:	16,339
+Twitch VODs available!
+59.03%
+Murloc Warlock
+Versus:	Curse Warlock
+Winrate:	42.71%
+Games:	20,227
+Twitch VODs available!
+42.71%
+Murloc Warlock
+Versus:	Beast Hunter
+Winrate:	47.26%
+Games:	19,886
+Twitch VODs available!
+47.26%
+Murloc Warlock
+Versus:	Thief Rogue
+Winrate:	43.27%
+Games:	26,900
+Twitch VODs available!
+43.27%
+Murloc Warlock
+Versus:	Murloc Shaman
+Winrate:	65.67%
+Games:	67
+65.67%
+Murloc Warlock
+Versus:	Token Demon Hunter
+Winrate:	55.08%
+Games:	118
+55.08%
+Control Warrior
+Versus:	Beast Druid
+Winrate:	55.78%
+Games:	812
+Twitch VODs available!
+55.78%
+Control Warrior
+Versus:	Fel Demon Hunter
+Winrate:	58.92%
+Games:	1,456
+Twitch VODs available!
+58.92%
+Control Warrior
+Versus:	Holy Paladin
+Winrate:	60.26%
+Games:	2,884
+Twitch VODs available!
+60.26%
+Control Warrior
+Versus:	Face Hunter
+Winrate:	62.64%
+Games:	2,527
+Twitch VODs available!
+62.64%
+Control Warrior
+Versus:	Pirate Rogue
+Winrate:	52.80%
+Games:	3,767
+Twitch VODs available!
+52.80%
+Control Warrior
+Versus:	Quest Priest
+Winrate:	36.83%
+Games:	4,317
+Twitch VODs available!
+36.83%
+Control Warrior
+Versus:	Mech Mage
+Winrate:	57.29%
+Games:	4,880
+Twitch VODs available!
+57.29%
+Control Warrior
+Versus:	Boar Priest
+Winrate:	33.28%
+Games:	5,056
+Twitch VODs available!
+33.28%
+Control Warrior
+Versus:	Burn Shaman
+Winrate:	62.36%
+Games:	4,995
+Twitch VODs available!
+62.36%
+Control Warrior
+Versus:	Celestial Druid
+Winrate:	33.04%
+Games:	6,183
+Twitch VODs available!
+33.04%
+Control Warrior
+Versus:	Ramp Druid
+Winrate:	34.18%
+Games:	6,067
+Twitch VODs available!
+34.18%
+Control Warrior
+Versus:	Charge Warrior
+Winrate:	53.43%
+Games:	6,172
+Twitch VODs available!
+53.43%
+Control Warrior
+Versus:	Quest Warrior
+Winrate:	38.94%
+Games:	7,375
+Twitch VODs available!
+38.94%
+Control Warrior
+Versus:	Naga Mage
+Winrate:	47.34%
+Games:	8,917
+Twitch VODs available!
+47.34%
+Control Warrior
+Versus:	Handbuff Paladin
+Winrate:	40.89%
+Games:	9,125
+Twitch VODs available!
+40.89%
+Control Warrior
+Versus:	Bless Priest
+Winrate:	49.31%
+Games:	8,758
+Twitch VODs available!
+49.31%
+Control Warrior
+Versus:	Murloc Warlock
+Winrate:	52.47%
+Games:	8,924
+Twitch VODs available!
+52.47%
+Control Warrior
+Mirror matchup
+TwitchTwitch VODs available!
+Control Warrior
+Versus:	Mech Paladin
+Winrate:	35.78%
+Games:	16,701
+Twitch VODs available!
+35.78%
+Control Warrior
+Versus:	Curse Warlock
+Winrate:	41.71%
+Games:	21,006
+Twitch VODs available!
+41.71%
+Control Warrior
+Versus:	Beast Hunter
+Winrate:	45.84%
+Games:	21,861
+Twitch VODs available!
+45.84%
+Control Warrior
+Versus:	Thief Rogue
+Winrate:	58.68%
+Games:	32,291
+Twitch VODs available!
+58.68%
+Control Warrior
+Versus:	Murloc Shaman
+Winrate:	67.46%
+Games:	83
+67.46%
+Control Warrior
+Versus:	Token Demon Hunter
+Winrate:	79.51%
+Games:	83
+79.51%
+Mech Paladin
+Versus:	Beast Druid
+Winrate:	44.99%
+Games:	1,378
+Twitch VODs available!
+44.99%
+Mech Paladin
+Versus:	Fel Demon Hunter
+Winrate:	63.74%
+Games:	2,066
+Twitch VODs available!
+63.74%
+Mech Paladin
+Versus:	Holy Paladin
+Winrate:	56.54%
+Games:	4,904
+Twitch VODs available!
+56.54%
+Mech Paladin
+Versus:	Face Hunter
+Winrate:	49.52%
+Games:	5,458
+Twitch VODs available!
+49.52%
+Mech Paladin
+Versus:	Pirate Rogue
+Winrate:	60.29%
+Games:	5,584
+Twitch VODs available!
+60.29%
+Mech Paladin
+Versus:	Quest Priest
+Winrate:	52.59%
+Games:	7,356
+Twitch VODs available!
+52.59%
+Mech Paladin
+Versus:	Mech Mage
+Winrate:	42.89%
+Games:	7,898
+Twitch VODs available!
+42.89%
+Mech Paladin
+Versus:	Boar Priest
+Winrate:	52.01%
+Games:	8,122
+Twitch VODs available!
+52.01%
+Mech Paladin
+Versus:	Burn Shaman
+Winrate:	48.19%
+Games:	8,821
+Twitch VODs available!
+48.19%
+Mech Paladin
+Versus:	Celestial Druid
+Winrate:	69.91%
+Games:	8,622
+Twitch VODs available!
+69.91%
+Mech Paladin
+Versus:	Ramp Druid
+Winrate:	64.81%
+Games:	10,256
+Twitch VODs available!
+64.81%
+Mech Paladin
+Versus:	Charge Warrior
+Winrate:	70.13%
+Games:	11,001
+Twitch VODs available!
+70.13%
+Mech Paladin
+Versus:	Quest Warrior
+Winrate:	47.37%
+Games:	14,055
+Twitch VODs available!
+47.37%
+Mech Paladin
+Versus:	Naga Mage
+Winrate:	49.97%
+Games:	14,296
+Twitch VODs available!
+49.97%
+Mech Paladin
+Versus:	Handbuff Paladin
+Winrate:	59.33%
+Games:	15,108
+Twitch VODs available!
+59.33%
+Mech Paladin
+Versus:	Bless Priest
+Winrate:	44.49%
+Games:	14,648
+Twitch VODs available!
+44.49%
+Mech Paladin
+Versus:	Murloc Warlock
+Winrate:	40.96%
+Games:	16,339
+Twitch VODs available!
+40.96%
+Mech Paladin
+Versus:	Control Warrior
+Winrate:	64.21%
+Games:	16,701
+Twitch VODs available!
+64.21%
+Mech Paladin
+Mirror matchup
+TwitchTwitch VODs available!
+Mech Paladin
+Versus:	Curse Warlock
+Winrate:	54.88%
+Games:	38,095
+Twitch VODs available!
+54.88%
+Mech Paladin
+Versus:	Beast Hunter
+Winrate:	59.21%
+Games:	40,193
+Twitch VODs available!
+59.21%
+Mech Paladin
+Versus:	Thief Rogue
+Winrate:	54.08%
+Games:	52,829
+Twitch VODs available!
+54.08%
+Mech Paladin
+Versus:	Murloc Shaman
+Winrate:	37.01%
+Games:	154
+37.01%
