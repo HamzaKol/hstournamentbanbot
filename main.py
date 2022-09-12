@@ -4,8 +4,8 @@ import sys
 import helpBo5
 import helpBo3
 
-TOKEN_TEST = 'OTczODk3OTI4NjQ3Mjc4NTky.GSqXHC.qnhNrpJ0cdyoITGwdhWeIDqm2MmNN01V9Ok4OQ'
-TOKEN = 'OTczMTU1NTczNTYwNDEwMTMz.GbBxTb.22P5S-hyWHYQQiZopShucavOB0D1iaRpVpf3sc'
+TOKEN_TEST = 'TOKEN GOES HERE'
+TOKEN = 'TOKEN GOES HERE'
 
 client = discord.Client()
 
